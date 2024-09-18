@@ -1,0 +1,50 @@
+﻿"Special Interest Profile, 2021 Census of Population"
+"Geography: Waterloo (City), Ontario [Census subdivision]"
+"Age (16): Total - Age"
+
+"Topic","Characteristic","Note","Total - Gender (1)","Total - Gender_Symb","Men+ (2)","Men+_Symb","Women+ (3)","Women+_Symb",
+"Age groups, average age and median age","Total - Age groups, average age and median age for the population in private households - 25% sample data",,118390,"", 59835,"", 58560,"",
+"Age groups, average age and median age","  0 to 14 years",, 17570,"",  9130,"",  8440,"",
+"Age groups, average age and median age","    0 to 4 years",,  4975,"",  2580,"",  2395,"",
+"Age groups, average age and median age","    5 to 9 years",,  5960,"",  3150,"",  2805,"",
+"Age groups, average age and median age","    10 to 14 years",,  6640,"",  3405,"",  3235,"",
+"Age groups, average age and median age","  15 to 64 years",, 83880,"", 42995,"", 40890,"",
+"Age groups, average age and median age","    15 to 19 years",,  7905,"",  4070,"",  3835,"",
+"Age groups, average age and median age","    20 to 24 years",, 13735,"",  7455,"",  6275,"",
+"Age groups, average age and median age","    25 to 29 years",, 10970,"",  6110,"",  4860,"",
+"Age groups, average age and median age","    30 to 34 years",,  8185,"",  4260,"",  3925,"",
+"Age groups, average age and median age","    35 to 39 years",,  7285,"",  3610,"",  3675,"",
+"Age groups, average age and median age","    40 to 44 years",,  6885,"",  3320,"",  3565,"",
+"Age groups, average age and median age","    45 to 49 years",,  7155,"",  3450,"",  3705,"",
+"Age groups, average age and median age","    50 to 54 years",,  7590,"",  3700,"",  3890,"",
+"Age groups, average age and median age","    55 to 59 years",,  7540,"",  3750,"",  3795,"",
+"Age groups, average age and median age","    60 to 64 years",,  6635,"",  3270,"",  3355,"",
+"Age groups, average age and median age","  65 years and over",, 16940,"",  7705,"",  9235,"",
+"Age groups, average age and median age","    85 years and over",,  1730,"",   835,"",   890,"",
+"Age groups, average age and median age","Average age",,   38.6,"",   37.6,"",   39.7,"",
+"Age groups, average age and median age","Median age",,   35.6,"",   33.6,"",   37.6,"",
+
+
+Notes:
+1,"""Gender"" refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman)."
+,"Gender includes the following concepts:"
+,"* gender identity, which refers to the gender that a person feels internally and individually;"
+,"* gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender."
+,"A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time."
+,"Some people may not identify with a specific gender."
+,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category ""non-binary persons"" are distributed into the other two gender categories and are denoted by the ""+"" symbol."
+2,"This category includes men (and/or boys), as well as some non-binary persons."
+3,"This category includes women (and/or girls), as well as some non-binary persons."
+
+
+Data quality:
+"Waterloo"
+"Total non-response (TNR) rate, short-form census questionnaire: 4.1%"
+"Total non-response (TNR) rate, long-form census questionnaire: 5.0%"
+
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+How to cite: Statistics Canada. 2024. Special Interest Profile. 2021 Census.
+Statistics Canada Catalogue no. 98-26-00092021001. Ottawa. Released March 20  2024.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/sip/index.cfm?Lang=E

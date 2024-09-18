@@ -1,0 +1,164 @@
+﻿"Special Interest Profile, 2021 Census of Population"
+"Geography: Windsor (City), Ontario [Census subdivision]"
+"Age (16): Total - Age"
+
+"Topic","Characteristic","Note","Total - Gender (1)","Total - Gender_Symb","Men+ (2)","Men+_Symb","Women+ (3)","Women+_Symb",
+"Labour force status","Total - Population aged 15 years and over by labour force status - 25% sample data",150,189865,"", 93590,"", 96275,"",
+"Labour force status","  In the labour force",,106885,"", 57825,"", 49060,"",
+"Labour force status","    Employed",, 86735,"", 47030,"", 39705,"",
+"Labour force status","    Unemployed",, 20150,"", 10795,"",  9350,"",
+"Labour force status","  Not in the labour force",, 82980,"", 35765,"", 47220,"",
+"Labour force status","Participation rate",,   56.3,"",   61.8,"",   51.0,"",
+"Labour force status","Employment rate",,   45.7,"",   50.3,"",   41.2,"",
+"Labour force status","Unemployment rate",,   18.9,"",   18.7,"",   19.1,"",
+"Work activity during the reference year","Total - Population aged 15 years and over by work activity during the reference year - 25% sample data",151,189865,"", 93590,"", 96275,"",
+"Work activity during the reference year","  Did not work",152, 85635,"", 37590,"", 48050,"",
+"Work activity during the reference year","  Worked",,104230,"", 56005,"", 48225,"",
+"Work activity during the reference year","    Worked full year full time",153, 47480,"", 27140,"", 20340,"",
+"Work activity during the reference year","    Worked part year and/or part time",154, 56750,"", 28865,"", 27885,"",
+"Work activity during the reference year","    Average weeks worked in reference year",,   39.3,"",   39.9,"",   38.5,"",
+"Class of worker","Total - Labour force aged 15 years and over by class of worker - 25% sample data",155,106885,"", 57825,"", 49060,"",
+"Class of worker","  Class of worker - not applicable",156,  4010,"",  2160,"",  1855,"",
+"Class of worker","  All classes of workers",157,102865,"", 55665,"", 47205,"",
+"Class of worker","    Employee",, 91845,"", 48660,"", 43190,"",
+"Class of worker","    Self-employed",158, 11025,"",  7005,"",  4015,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","Total - Occupation - TEER category - National Occupational Classification (NOC) 2021 for the population aged 15 years and over in private households - 25% sample data",159,189865,"", 93590,"", 96275,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","  All TEER categories",160,113950,"", 61000,"", 52945,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 0 management occupations",161,  8525,"",  4860,"",  3660,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 1 professional occupations",162, 19075,"",  9435,"",  9640,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 2 occupations",163, 20625,"", 13590,"",  7040,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 3 occupations",164, 18950,"",  8690,"", 10260,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 4 occupations",165, 23965,"", 12135,"", 11830,"",
+"Occupation - TEER category - National Occupational Classification (NOC) 2021","    TEER 5 occupations",166, 22805,"", 12285,"", 10525,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","Total - Occupation - Major group - National Occupational Classification (NOC) 2021 for the population in private households aged 15 years and over who worked since 2020 - 25% sample data",167,113950,"", 61000,"", 52945,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  0 Legislative and senior management occupations",,   665,"",   385,"",   270,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    00 Legislative and senior managers",,   665,"",   385,"",   270,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  1 Business, finance and administration occupations",, 13730,"",  4455,"",  9270,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    10 Specialized middle management occupations in administrative services, financial and business services and communication (except broadcasting)",,  1355,"",   615,"",   740,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    11 Professional occupations in finance and business",,  2505,"",  1230,"",  1275,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    12 Administrative and financial supervisors and specialized administrative occupations",,  1940,"",   680,"",  1255,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    13 Administrative occupations and transportation logistics occupations",,  3355,"",   620,"",  2725,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    14 Administrative and financial support and supply chain logistics occupations",,  4580,"",  1305,"",  3275,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  2 Natural and applied sciences and related occupations",,  9260,"",  7480,"",  1780,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    20 Specialized middle management occupations in engineering, architecture, science and information systems",,   450,"",   355,"",    95,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    21 Professional occupations in natural and applied sciences",,  5310,"",  4270,"",  1040,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    22 Technical occupations related to natural and applied sciences",,  3500,"",  2855,"",   645,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  3 Health occupations",,  9955,"",  2065,"",  7890,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    30 Specialized middle management occupations in health care",,   205,"",    70,"",   135,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    31 Professional occupations in health",,  4085,"",  1125,"",  2965,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    32 Technical occupations in health",,  1900,"",   370,"",  1530,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    33 Assisting occupations in support of health services",,  3765,"",   510,"",  3255,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  4 Occupations in education, law and social, community and government services",, 11385,"",  3855,"",  7530,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    40 Managers in public administration, in education and social and community services and in public protection services",,   455,"",   185,"",   270,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    41 Professional occupations in law, education, social, community and government services",,  6565,"",  2525,"",  4040,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    42 Front-line public protection services and paraprofessional occupations in legal, social, community, education services",,  2300,"",   565,"",  1740,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    43 Assisting occupations in education and in legal and public protection",,  1255,"",   405,"",   850,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    44 Care providers and legal and public protection support occupations",,   565,"",   130,"",   435,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    45 Student monitors, crossing guards and related occupations",,   240,"",    40,"",   200,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  5 Occupations in art, culture, recreation and sport",,  2400,"",  1100,"",  1295,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    50 Specialized middle management occupations in art, culture, recreation and sport",,   105,"",    60,"",    45,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    51 Professional occupations in art and culture",,   615,"",   295,"",   325,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    52 Technical occupations in art, culture and sport",,   690,"",   350,"",   345,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    53 Occupations in art, culture and sport",,   480,"",   205,"",   280,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    54 Support occupations in sport",,   465,"",   160,"",   300,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    55 Support occupations in art and culture",,    40,"",    30,"",    10,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  6 Sales and service occupations",, 31605,"", 13470,"", 18135,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    60 Middle management occupations in retail and wholesale trade and customer services",,  3435,"",  1715,"",  1720,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    62 Retail sales and service supervisors and specialized occupations in sales and services",,  2100,"",  1070,"",  1030,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    63 Occupations in sales and services",,  4530,"",  1970,"",  2555,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    64 Sales and service representatives and other customer and personal services occupations",,  8160,"",  3570,"",  4595,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    65 Sales and service support occupations",, 13380,"",  5145,"",  8235,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  7 Trades, transport and equipment operators and related occupations",, 19800,"", 17895,"",  1905,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    70 Middle management occupations in trades and transportation",,  1190,"",   945,"",   245,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    72 Technical trades and transportation officers and controllers",,  7200,"",  6880,"",   315,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    73 General trades",,  5420,"",  4850,"",   570,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    74 Mail and message distribution, other transport equipment operators and related maintenance workers",,   980,"",   750,"",   230,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    75 Helpers and labourers and other transport drivers, operators and labourers",,  5010,"",  4465,"",   545,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  8 Natural resources, agriculture and related production occupations",,  1600,"",  1165,"",   435,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    80 Middle management occupations in production and agriculture",,   150,"",   105,"",    40,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    82 Supervisors in natural resources, agriculture and related production",,   185,"",   145,"",    35,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    83 Occupations in natural resources and related production",,    35,"",    35,"",     0,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    84 Workers in natural resources, agriculture and related production",,   100,"",    70,"",    30,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    85 Harvesting, landscaping and natural resources labourers",,  1135,"",   815,"",   320,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","  9 Occupations in manufacturing and utilities",, 13565,"",  9125,"",  4440,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    90 Middle management occupations in manufacturing and utilities",,   525,"",   425,"",   100,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    92 Processing, manufacturing and utilities supervisors and utilities operators and controllers",,   820,"",   670,"",   150,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    93 Central control and process operators and aircraft assembly assemblers and inspectors",,   105,"",    95,"",    10,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    94 Machine operators, assemblers and inspectors in processing, manufacturing and printing",,  9115,"",  6145,"",  2970,"",
+"Occupation - Major group - National Occupational Classification (NOC) 2021","    95 Labourers in processing, manufacturing and utilities",,  3000,"",  1795,"",  1210,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","Total - Labour force aged 15 years and over by industry - Sectors - North American Industry Classification System (NAICS) 2017 - 25% sample data",168,106885,"", 57825,"", 49060,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","  Industry - not applicable",156,  4010,"",  2160,"",  1855,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","  All industries",157,102865,"", 55665,"", 47205,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    11 Agriculture, forestry, fishing and hunting",,  1285,"",   715,"",   565,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    21 Mining, quarrying, and oil and gas extraction",,   155,"",   145,"",    10,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    22 Utilities",,   430,"",   335,"",    95,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    23 Construction",,  6505,"",  5840,"",   665,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    31-33 Manufacturing",, 20385,"", 15045,"",  5340,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    41 Wholesale trade",,  2385,"",  1595,"",   790,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    44-45 Retail trade",, 11750,"",  5475,"",  6275,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    48-49 Transportation and warehousing",,  5455,"",  4115,"",  1345,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    51 Information and cultural industries",,  1005,"",   605,"",   400,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    52 Finance and insurance",,  3235,"",  1360,"",  1875,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    53 Real estate and rental and leasing",,  1475,"",   830,"",   645,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    54 Professional, scientific and technical services",,  6035,"",  3525,"",  2510,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    55 Management of companies and enterprises",,   130,"",    70,"",    65,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    56 Administrative and support, waste management and remediation services",,  5045,"",  2870,"",  2180,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    61 Educational services",,  7225,"",  2550,"",  4670,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    62 Health care and social assistance",, 13485,"",  2710,"", 10775,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    71 Arts, entertainment and recreation",,  2195,"",  1115,"",  1080,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    72 Accommodation and food services",,  7510,"",  3305,"",  4200,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    81 Other services (except public administration)",,  4255,"",  1935,"",  2320,"",
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017","    91 Public administration",,  2930,"",  1525,"",  1400,"",
+"Place of work status","Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data",169, 86735,"", 47030,"", 39705,"",
+"Place of work status","  Worked at home",, 14350,"",  6945,"",  7405,"",
+"Place of work status","  Worked outside Canada",,  2950,"",  1755,"",  1195,"",
+"Place of work status","  No fixed workplace address",, 10540,"",  7765,"",  2775,"",
+"Place of work status","  Usual place of work",, 58895,"", 30565,"", 28330,"",
+
+
+Notes:
+1,"""Gender"" refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman)."
+,"Gender includes the following concepts:"
+,"* gender identity, which refers to the gender that a person feels internally and individually;"
+,"* gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender."
+,"A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time."
+,"Some people may not identify with a specific gender."
+,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category ""non-binary persons"" are distributed into the other two gender categories and are denoted by the ""+"" symbol."
+2,"This category includes men (and/or boys), as well as some non-binary persons."
+3,"This category includes women (and/or girls), as well as some non-binary persons."
+150,"Refers to whether a person aged 15 years and over was employed, unemployed or not in the labour force during the week of Sunday, May 2 to Saturday, May 8, 2021."
+,"For information on the comparability of the 2021 Census labour force status data with those of the Labour Force Survey, see Appendix 2.11 of the Dictionary, Census of Population, 2021."
+151,"Refers to the number of weeks in which a person aged 15 years and over worked for pay or in self-employment in 2020 at all jobs held, even if only for a few hours, and whether these weeks were mostly full time (30 hours or more per week) or mostly part time (less than 30 hours per week)."
+152,"Includes persons aged 15 years and over who never worked, persons who worked prior to 2020 and persons who worked in 2021, but not in 2020."
+153,"Includes persons aged 15 years and over who worked full year (49 weeks and over) and mostly full time (30 hours or more per week) in 2020."
+154,"Includes persons aged 15 years and over who worked full year mostly part time or part year either mostly full time or mostly part time in 2020. Part year is less than 49 weeks and part time is less than 30 hours per week."
+155,"Class of worker including job permanency refers to whether a person is a paid employee or is self-employed. Employees' positions are further classified as either permanent or temporary."
+156,"Includes unemployed persons aged 15 years and over who have never worked for pay or in self-employment, or who had last worked prior to January 1, 2020."
+157,"Includes persons aged 15 years and over in the labour force who have worked at some point in time between January 1, 2020 and May 8, 2021."
+158,"Includes self-employed persons aged 15 years and over with or without an incorporated business and with or without paid help, as well as unpaid family workers."
+159,"Occupation (based on the National Occupational Classification [NOC] 2021 Version 1.0) Occupation refers to the kind of work performed in a job, a job being all the tasks carried out by a particular worker to complete his or her duties. An occupation is a set of jobs that are sufficiently similar in work performed. Kind of work is described in terms of tasks, duties and responsibilities, often including factors such as materials processed or used, the industrial processes used, the equipment used, and the products or services provided. Occupations are generally homogeneous with respect to skill type and skill level. Occupation applies to the contribution of labour to that part of economic activity that is within the production boundary defined for the System of National Accounts."
+,"Refers to the kind of work performed by persons aged 15 years and over as determined by their kind of work and the description of the main activities in their job. The occupation data are produced according to the variant of the National Occupational Classification (NOC) 2021 Version 1.0 for Analysis by TEER (Training, Education, Experience and Responsibility) categories."
+,"Persons aged 15 years and over who never worked for pay or self-employment, or last worked for pay or self-employment prior to 2020 are included in this total."
+160,"Includes persons aged 15 years and over who have worked at some point in time between January 2020 and May 2021."
+161,"Management occupations refer to occupations with management responsibilities, including legislators, senior managers and middle managers."
+162,"Professional occupations require completion of a university degree (bachelor's, master's or doctorate); or previous experience and expertise in subject matter knowledge from a related occupation found in TEER 2 (when applicable)."
+163,"Occupations in TEER 2 usually require completion of a postsecondary education program of two to three years at community college, institute of technology or CEGEP; or completion of an apprenticeship training program of two to five years; or occupations with supervisory or significant safety (e.g., police officers and firefighters) responsibilities; or several years of experience in a related occupation from TEER 3 (when applicable)."
+164,"Occupations in TEER 3 usually require completion of a postsecondary education program of less than two years at community college, institute of technology or CEGEP; or completion of an apprenticeship training program of less than two years; or more than six months of on-the-job training, training courses or specific work experience with some secondary school education; or several years of experience in a related occupation from TEER 4 (when applicable)."
+165,"Occupations in TEER 4 usually require completion of secondary school; or several weeks of on-the-job training with some secondary school education; or experience in a related occupation from TEER 5 (when applicable)."
+166,"Occupations in TEER 5 usually require short work demonstration and no formal educational requirements."
+167,"Refers to the kind of work performed by persons aged 15 years and over as determined by their kind of work and the description of the main activities in their job. The occupation data are produced according to the National Occupational Classification [NOC] 2021 version 1.0."
+168,"Refers to the general nature of the business carried out in the establishment where the person worked. The industry data are produced according to the North American Industry Classification System (NAICS) Canada 2017 Version 3.0."
+169,"Place of work status refers to whether a person worked at home, worked outside Canada, had no fixed workplace address, or worked at a specific address (usual place of work)."
+
+
+Data quality:
+"Windsor"
+"Total non-response (TNR) rate, short-form census questionnaire: 2.8%"
+"Total non-response (TNR) rate, long-form census questionnaire: 3.6%"
+
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+How to cite: Statistics Canada. 2024. Special Interest Profile. 2021 Census.
+Statistics Canada Catalogue no. 98-26-00092021001. Ottawa. Released March 20  2024.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/sip/index.cfm?Lang=E

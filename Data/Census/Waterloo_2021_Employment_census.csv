@@ -1,0 +1,105 @@
+﻿Topic,Characteristic,Total - Gender (1),Men+ (2),Women+ (3)
+Labour force status,  In the labour force,65955,35530,30425
+Labour force status,    Employed,58050,31860,26190
+Labour force status,    Unemployed,7905,3670,4235
+Labour force status,  Not in the labour force,34865,15170,19695
+Labour force status,Participation rate,65.4,70.1,60.7
+Labour force status,Employment rate,57.6,62.8,52.3
+Labour force status,Unemployment rate,12,10.3,13.9
+Work activity during the reference year,  Did not work,34650,15420,19230
+Work activity during the reference year,  Worked,66170,35285,30890
+Work activity during the reference year,    Worked full year full time,34455,20240,14215
+Work activity during the reference year,    Worked part year and/or part time,31715,15040,16675
+Work activity during the reference year,    Average weeks worked in reference year,40.5,41.5,39.3
+Class of worker,  Class of worker - not applicable,1925,925,1000
+Class of worker,  All classes of workers,64030,34605,29425
+Class of worker,    Employee,56260,29880,26380
+Class of worker,    Self-employed,7770,4725,3045
+Occupation - TEER category - National Occupational Classification (NOC) 2021,  All TEER categories,71760,38385,33380
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 0 management occupations,8135,5025,3115
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 1 professional occupations,23285,12670,10615
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 2 occupations,11450,6710,4740
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 3 occupations,8480,3745,4735
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 4 occupations,10625,4890,5735
+Occupation - TEER category - National Occupational Classification (NOC) 2021,    TEER 5 occupations,9780,5340,4440
+Occupation - Major group - National Occupational Classification (NOC) 2021,  0 Legislative and senior management occupations,1130,775,355
+Occupation - Major group - National Occupational Classification (NOC) 2021,    00 Legislative and senior managers,1130,775,355
+Occupation - Major group - National Occupational Classification (NOC) 2021,"  1 Business, finance and administration occupations",12420,4490,7935
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    10 Specialized middle management occupations in administrative services, financial and business services and communication (except broadcasting)",1765,805,965
+Occupation - Major group - National Occupational Classification (NOC) 2021,    11 Professional occupations in finance and business,3450,1560,1890
+Occupation - Major group - National Occupational Classification (NOC) 2021,    12 Administrative and financial supervisors and specialized administrative occupations,1870,595,1275
+Occupation - Major group - National Occupational Classification (NOC) 2021,    13 Administrative occupations and transportation logistics occupations,2470,520,1950
+Occupation - Major group - National Occupational Classification (NOC) 2021,    14 Administrative and financial support and supply chain logistics occupations,2870,1015,1850
+Occupation - Major group - National Occupational Classification (NOC) 2021,  2 Natural and applied sciences and related occupations,12270,9105,3170
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    20 Specialized middle management occupations in engineering, architecture, science and information systems",940,670,265
+Occupation - Major group - National Occupational Classification (NOC) 2021,    21 Professional occupations in natural and applied sciences,8890,6610,2280
+Occupation - Major group - National Occupational Classification (NOC) 2021,    22 Technical occupations related to natural and applied sciences,2440,1825,625
+Occupation - Major group - National Occupational Classification (NOC) 2021,  3 Health occupations,3835,960,2880
+Occupation - Major group - National Occupational Classification (NOC) 2021,    30 Specialized middle management occupations in health care,85,20,60
+Occupation - Major group - National Occupational Classification (NOC) 2021,    31 Professional occupations in health,1930,525,1405
+Occupation - Major group - National Occupational Classification (NOC) 2021,    32 Technical occupations in health,800,215,590
+Occupation - Major group - National Occupational Classification (NOC) 2021,    33 Assisting occupations in support of health services,1020,195,825
+Occupation - Major group - National Occupational Classification (NOC) 2021,"  4 Occupations in education, law and social, community and government services",11075,4475,6595
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    40 Managers in public administration, in education and social and community services and in public protection services",480,195,275
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    41 Professional occupations in law, education, social, community and government services",8290,3690,4595
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    42 Front-line public protection services and paraprofessional occupations in legal, social, community, education services",1280,305,975
+Occupation - Major group - National Occupational Classification (NOC) 2021,    43 Assisting occupations in education and in legal and public protection,615,235,380
+Occupation - Major group - National Occupational Classification (NOC) 2021,    44 Care providers and legal and public protection support occupations,340,30,310
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    45 Student monitors, crossing guards and related occupations",70,15,55
+Occupation - Major group - National Occupational Classification (NOC) 2021,"  5 Occupations in art, culture, recreation and sport",2525,1030,1500
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    50 Specialized middle management occupations in art, culture, recreation and sport",80,45,35
+Occupation - Major group - National Occupational Classification (NOC) 2021,    51 Professional occupations in art and culture,730,290,440
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    52 Technical occupations in art, culture and sport",725,275,445
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    53 Occupations in art, culture and sport",490,190,295
+Occupation - Major group - National Occupational Classification (NOC) 2021,    54 Support occupations in sport,475,210,270
+Occupation - Major group - National Occupational Classification (NOC) 2021,    55 Support occupations in art and culture,30,20,15
+Occupation - Major group - National Occupational Classification (NOC) 2021,  6 Sales and service occupations,16490,7850,8640
+Occupation - Major group - National Occupational Classification (NOC) 2021,    60 Middle management occupations in retail and wholesale trade and customer services,2465,1545,925
+Occupation - Major group - National Occupational Classification (NOC) 2021,    62 Retail sales and service supervisors and specialized occupations in sales and services,1280,710,570
+Occupation - Major group - National Occupational Classification (NOC) 2021,    63 Occupations in sales and services,2130,1025,1105
+Occupation - Major group - National Occupational Classification (NOC) 2021,    64 Sales and service representatives and other customer and personal services occupations,4500,1945,2555
+Occupation - Major group - National Occupational Classification (NOC) 2021,    65 Sales and service support occupations,6115,2620,3485
+Occupation - Major group - National Occupational Classification (NOC) 2021,"  7 Trades, transport and equipment operators and related occupations",7265,6505,760
+Occupation - Major group - National Occupational Classification (NOC) 2021,    70 Middle management occupations in trades and transportation,735,605,125
+Occupation - Major group - National Occupational Classification (NOC) 2021,    72 Technical trades and transportation officers and controllers,2560,2405,155
+Occupation - Major group - National Occupational Classification (NOC) 2021,    73 General trades,1720,1550,175
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    74 Mail and message distribution, other transport equipment operators and related maintenance workers",350,280,70
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    75 Helpers and labourers and other transport drivers, operators and labourers",1905,1665,240
+Occupation - Major group - National Occupational Classification (NOC) 2021,"  8 Natural resources, agriculture and related production occupations",825,625,195
+Occupation - Major group - National Occupational Classification (NOC) 2021,    80 Middle management occupations in production and agriculture,55,45,10
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    82 Supervisors in natural resources, agriculture and related production",100,80,20
+Occupation - Major group - National Occupational Classification (NOC) 2021,    83 Occupations in natural resources and related production,20,20,0
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    84 Workers in natural resources, agriculture and related production",70,50,25
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    85 Harvesting, landscaping and natural resources labourers",580,435,145
+Occupation - Major group - National Occupational Classification (NOC) 2021,  9 Occupations in manufacturing and utilities,3925,2575,1350
+Occupation - Major group - National Occupational Classification (NOC) 2021,    90 Middle management occupations in manufacturing and utilities,410,315,95
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    92 Processing, manufacturing and utilities supervisors and utilities operators and controllers",390,300,95
+Occupation - Major group - National Occupational Classification (NOC) 2021,    93 Central control and process operators and aircraft assembly assemblers and inspectors,20,15,0
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    94 Machine operators, assemblers and inspectors in processing, manufacturing and printing",2020,1365,655
+Occupation - Major group - National Occupational Classification (NOC) 2021,"    95 Labourers in processing, manufacturing and utilities",1085,585,500
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,  Industry - not applicable,1925,925,1000
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,  All industries,64030,34605,29425
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,"    11 Agriculture, forestry, fishing and hunting",375,230,145
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,"    21 Mining, quarrying, and oil and gas extraction",65,45,10
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    22 Utilities,285,225,65
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    23 Construction,3185,2625,555
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    31-33 Manufacturing,6825,4840,1985
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    41 Wholesale trade,1900,1285,615
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    44-45 Retail trade,6510,3355,3155
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    48-49 Transportation and warehousing,1915,1480,435
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    51 Information and cultural industries,2565,1575,990
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    52 Finance and insurance,5050,2265,2795
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    53 Real estate and rental and leasing,1065,585,475
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,"    54 Professional, scientific and technical services",8945,5760,3185
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    55 Management of companies and enterprises,345,170,175
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,"    56 Administrative and support, waste management and remediation services",2390,1400,990
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    61 Educational services,8775,3615,5160
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    62 Health care and social assistance,5665,1295,4375
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,"    71 Arts, entertainment and recreation",940,455,485
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    72 Accommodation and food services,3425,1625,1800
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    81 Other services (except public administration),1920,850,1070
+Industry - Sectors - North American Industry Classification System (NAICS) 2017,    91 Public administration,1900,940,960
+Place of work status,  Worked at home,23380,12230,11150
+Place of work status,  Worked outside Canada,325,220,100
+Place of work status,  No fixed workplace address,4275,3090,1185
+Place of work status,  Usual place of work,30065,16315,13750

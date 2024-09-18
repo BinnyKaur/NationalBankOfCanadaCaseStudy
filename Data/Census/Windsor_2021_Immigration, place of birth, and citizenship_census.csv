@@ -1,0 +1,318 @@
+﻿"Special Interest Profile, 2021 Census of Population"
+"Geography: Windsor (City), Ontario [Census subdivision]"
+"Age (16): Total - Age"
+
+"Topic","Characteristic","Note","Total - Gender (1)","Total - Gender_Symb","Men+ (2)","Men+_Symb","Women+ (3)","Women+_Symb",
+"Citizenship","Total - Citizenship for the population in private households - 25% sample data",64,226460,"",112380,"",114080,"",
+"Citizenship","  Canadian citizens",65,201160,"", 99145,"",102015,"",
+"Citizenship","    Canadian citizens only",,168765,"", 82890,"", 85880,"",
+"Citizenship","    Citizens of Canada and at least one other country",, 32395,"", 16255,"", 16140,"",
+"Citizenship","  Not Canadian citizens",66, 25300,"", 13235,"", 12065,"",
+"Immigrant status and period of immigration","Total - Immigrant status and period of immigration for the population in private households - 25% sample data",67,226460,"",112380,"",114080,"",
+"Immigrant status and period of immigration","  Non-immigrants",68,152370,"", 75200,"", 77175,"",
+"Immigrant status and period of immigration","  Immigrants",69, 66615,"", 32415,"", 34200,"",
+"Immigrant status and period of immigration","    Before 1980",, 12400,"",  5880,"",  6520,"",
+"Immigrant status and period of immigration","    1980 to 1990",,  6120,"",  3200,"",  2920,"",
+"Immigrant status and period of immigration","    1991 to 2000",, 12935,"",  6340,"",  6600,"",
+"Immigrant status and period of immigration","    2001 to 2010",, 13520,"",  6420,"",  7105,"",
+"Immigrant status and period of immigration","    2011 to 2021",70, 21635,"", 10580,"", 11055,"",
+"Immigrant status and period of immigration","      2011 to 2015",,  8765,"",  4140,"",  4620,"",
+"Immigrant status and period of immigration","      2016 to 2021",, 12875,"",  6435,"",  6440,"",
+"Immigrant status and period of immigration","  Non-permanent residents",71,  7480,"",  4770,"",  2710,"",
+"Age at immigration","Total - Age at immigration for the immigrant population in private households - 25% sample data",72, 66615,"", 32415,"", 34200,"",
+"Age at immigration","  Under 5 years",,  6465,"",  3430,"",  3035,"",
+"Age at immigration","  5 to 14 years",, 11735,"",  5830,"",  5895,"",
+"Age at immigration","  15 to 24 years",, 13315,"",  6295,"",  7015,"",
+"Age at immigration","  25 to 44 years",, 27825,"", 13485,"", 14345,"",
+"Age at immigration","  45 years and over",,  7275,"",  3370,"",  3905,"",
+"Place of birth","Total - Place of birth for the population in private households - 25% sample data",73,226460,"",112380,"",114080,"",
+"Place of birth","  Born in Canada",,149620,"", 73730,"", 75890,"",
+"Place of birth","  Born outside Canada",, 76840,"", 38645,"", 38190,"",
+"Place of birth","    Americas",, 10155,"",  4605,"",  5555,"",
+"Place of birth","      North America",,  5580,"",  2505,"",  3075,"",
+"Place of birth","        United States of America",,  5580,"",  2505,"",  3075,"",
+"Place of birth","        Other places of birth in North America",,     0,"",     0,"",     0,"",
+"Place of birth","      Central America",,  1685,"",   775,"",   915,"",
+"Place of birth","        El Salvador",,   640,"",   315,"",   330,"",
+"Place of birth","        Guatemala",,   195,"",   100,"",    90,"",
+"Place of birth","        Mexico",,   525,"",   230,"",   295,"",
+"Place of birth","        Other places of birth in Central America",,   325,"",   130,"",   195,"",
+"Place of birth","      Caribbean and Bermuda",,  1655,"",   760,"",   895,"",
+"Place of birth","        Barbados",,    40,"",    15,"",    25,"",
+"Place of birth","        Cuba",,   100,"",    30,"",    70,"",
+"Place of birth","        Dominican Republic",,    50,"",    25,"",    30,"",
+"Place of birth","        Grenada",,    20,"",    10,"",    15,"",
+"Place of birth","        Haiti",,   250,"",   105,"",   145,"",
+"Place of birth","        Jamaica",,   800,"",   390,"",   405,"",
+"Place of birth","        Saint Vincent and the Grenadines",,    20,"",    10,"",    10,"",
+"Place of birth","        Trinidad and Tobago",,   245,"",   110,"",   130,"",
+"Place of birth","        Other places of birth in Caribbean and Bermuda",,   135,"",    65,"",    75,"",
+"Place of birth","      South America",,  1230,"",   560,"",   670,"",
+"Place of birth","        Argentina",,    90,"",    30,"",    60,"",
+"Place of birth","        Brazil",,   180,"",    80,"",   100,"",
+"Place of birth","        Chile",,   135,"",    70,"",    60,"",
+"Place of birth","        Colombia",,   345,"",   185,"",   160,"",
+"Place of birth","        Ecuador",,    70,"",    30,"",    35,"",
+"Place of birth","        Guyana",,    80,"",    55,"",    25,"",
+"Place of birth","        Peru",,   105,"",    40,"",    65,"",
+"Place of birth","        Venezuela",74,   180,"",    55,"",   125,"",
+"Place of birth","        Other places of birth in South America",,    45,"",    15,"",    35,"",
+"Place of birth","    Europe",, 17515,"",  8730,"",  8790,"",
+"Place of birth","      Western Europe",,  1245,"",   650,"",   590,"",
+"Place of birth","        Austria",,    95,"",    40,"",    55,"",
+"Place of birth","        Belgium",,    55,"",    30,"",    25,"",
+"Place of birth","        France",,   195,"",   110,"",    85,"",
+"Place of birth","        Germany",,   650,"",   320,"",   330,"",
+"Place of birth","        Netherlands",,   230,"",   150,"",    80,"",
+"Place of birth","        Switzerland",,    25,"",     0,"",    20,"",
+"Place of birth","        Other places of birth in Western Europe",,     0,"",     0,"",     0,"",
+"Place of birth","      Eastern Europe",,  4425,"",  2120,"",  2300,"",
+"Place of birth","        Belarus",,    60,"",    15,"",    40,"",
+"Place of birth","        Bulgaria",,   100,"",    55,"",    50,"",
+"Place of birth","        Czechia",,    55,"",    25,"",    25,"",
+"Place of birth","        Hungary",,   430,"",   210,"",   220,"",
+"Place of birth","        Moldova",75,    30,"",    20,"",    10,"",
+"Place of birth","        Poland",,  1675,"",   810,"",   860,"",
+"Place of birth","        Romania",,  1600,"",   780,"",   820,"",
+"Place of birth","        Russian Federation",,   140,"",    60,"",    85,"",
+"Place of birth","        Slovakia",,   170,"",    75,"",    90,"",
+"Place of birth","        Ukraine",,   155,"",    60,"",    90,"",
+"Place of birth","        Other places of birth in Eastern Europe",,    25,"",    20,"",    10,"",
+"Place of birth","      Northern Europe",,  2655,"",  1370,"",  1280,"",
+"Place of birth","        Denmark",,    25,"",    15,"",    10,"",
+"Place of birth","        Ireland",76,    80,"",    75,"",    10,"",
+"Place of birth","        United Kingdom",77,  2465,"",  1245,"",  1215,"",
+"Place of birth","        Other places of birth in Northern Europe",,    80,"",    35,"",    45,"",
+"Place of birth","      Southern Europe",,  9190,"",  4580,"",  4610,"",
+"Place of birth","        Albania",,   585,"",   250,"",   330,"",
+"Place of birth","        Bosnia and Herzegovina",,  1140,"",   590,"",   550,"",
+"Place of birth","        Croatia",,  1100,"",   525,"",   575,"",
+"Place of birth","        Greece",,   655,"",   350,"",   310,"",
+"Place of birth","        Italy",,  3320,"",  1630,"",  1690,"",
+"Place of birth","        North Macedonia",,   540,"",   305,"",   240,"",
+"Place of birth","        Portugal",,   340,"",   180,"",   165,"",
+"Place of birth","        Serbia",78,  1015,"",   520,"",   495,"",
+"Place of birth","        Spain",,    75,"",    35,"",    40,"",
+"Place of birth","        Other places of birth in Southern Europe",,   410,"",   200,"",   210,"",
+"Place of birth","    Africa",,  6180,"",  3040,"",  3140,"",
+"Place of birth","      Western Africa",,  1850,"",   905,"",   940,"",
+"Place of birth","        Côte d'Ivoire",,    90,"",    30,"",    60,"",
+"Place of birth","        Ghana",,   165,"",    95,"",    70,"",
+"Place of birth","        Nigeria",,  1295,"",   630,"",   660,"",
+"Place of birth","        Other places of birth in Western Africa",,   305,"",   155,"",   150,"",
+"Place of birth","      Eastern Africa",,  2295,"",  1095,"",  1200,"",
+"Place of birth","        Eritrea",,   235,"",   115,"",   115,"",
+"Place of birth","        Ethiopia",,   285,"",   130,"",   155,"",
+"Place of birth","        Kenya",,   175,"",   105,"",    70,"",
+"Place of birth","        Mauritius",,    40,"",    15,"",    20,"",
+"Place of birth","        Somalia",,   680,"",   320,"",   365,"",
+"Place of birth","        Tanzania",79,    50,"",    10,"",    35,"",
+"Place of birth","        Uganda",,    85,"",    40,"",    45,"",
+"Place of birth","        Zimbabwe",,   105,"",    55,"",    50,"",
+"Place of birth","        Other places of birth in Eastern Africa",,   650,"",   305,"",   345,"",
+"Place of birth","      Northern Africa",,  1215,"",   645,"",   575,"",
+"Place of birth","        Algeria",,   135,"",    65,"",    65,"",
+"Place of birth","        Egypt",,   525,"",   300,"",   220,"",
+"Place of birth","        Morocco",,    75,"",    45,"",    25,"",
+"Place of birth","        Sudan",80,   195,"",    85,"",   105,"",
+"Place of birth","        Tunisia",,    80,"",    50,"",    35,"",
+"Place of birth","        Other places of birth in Northern Africa",,   215,"",    95,"",   120,"",
+"Place of birth","      Central Africa",,   630,"",   295,"",   335,"",
+"Place of birth","        Cameroon",,   135,"",    65,"",    70,"",
+"Place of birth","        Congo, Democratic Republic of the",,   345,"",   160,"",   190,"",
+"Place of birth","        Other places of birth in Central Africa",,   145,"",    70,"",    75,"",
+"Place of birth","      Southern Africa",,   195,"",   100,"",    90,"",
+"Place of birth","        South Africa, Republic of",,   180,"",    95,"",    80,"",
+"Place of birth","        Other places of birth in Southern Africa",,    15,"",     0,"",    10,"",
+"Place of birth","    Asia",, 42875,"", 22235,"", 20640,"",
+"Place of birth","      West Central Asia and the Middle East",, 20460,"", 10325,"", 10135,"",
+"Place of birth","        Afghanistan",,    40,"",    15,"",    25,"",
+"Place of birth","        Iran",81,   835,"",   415,"",   425,"",
+"Place of birth","        Iraq",,  8615,"",  4355,"",  4265,"",
+"Place of birth","        Israel",,   120,"",    45,"",    75,"",
+"Place of birth","        Jordan",,   605,"",   340,"",   265,"",
+"Place of birth","        Kazakhstan",,     0,"",     0,"",     0,"",
+"Place of birth","        Kuwait",,   415,"",   215,"",   205,"",
+"Place of birth","        Lebanon",,  4010,"",  2000,"",  2010,"",
+"Place of birth","        Saudi Arabia",,   635,"",   340,"",   300,"",
+"Place of birth","        Syria",82,  3500,"",  1685,"",  1815,"",
+"Place of birth","        Turkey",,   375,"",   205,"",   175,"",
+"Place of birth","        United Arab Emirates",,   505,"",   315,"",   190,"",
+"Place of birth","        Other places of birth in West Central Asia and the Middle East",,   800,"",   410,"",   390,"",
+"Place of birth","      Eastern Asia",,  5115,"",  2415,"",  2700,"",
+"Place of birth","        China",83,  4100,"",  1860,"",  2240,"",
+"Place of birth","        Hong Kong",84,   445,"",   265,"",   180,"",
+"Place of birth","        Japan",,    50,"",    30,"",    15,"",
+"Place of birth","        Korea, South",85,   320,"",   170,"",   145,"",
+"Place of birth","        Taiwan",,   190,"",    75,"",   115,"",
+"Place of birth","        Other places of birth in Eastern Asia",,    20,"",     0,"",    15,"",
+"Place of birth","      Southeast Asia",,  5150,"",  2280,"",  2865,"",
+"Place of birth","        Cambodia",,   225,"",   120,"",   110,"",
+"Place of birth","        Indonesia",,    90,"",    50,"",    40,"",
+"Place of birth","        Laos",86,   140,"",    65,"",    70,"",
+"Place of birth","        Malaysia",,   130,"",    65,"",    65,"",
+"Place of birth","        Philippines",,  2460,"",   975,"",  1495,"",
+"Place of birth","        Singapore",,    40,"",    20,"",    25,"",
+"Place of birth","        Thailand",,   245,"",    95,"",   155,"",
+"Place of birth","        Viet Nam",,  1670,"",   835,"",   835,"",
+"Place of birth","        Other places of birth in Southeast Asia",,   150,"",    70,"",    80,"",
+"Place of birth","      Southern Asia",, 12155,"",  7215,"",  4935,"",
+"Place of birth","        Bangladesh",,   740,"",   400,"",   335,"",
+"Place of birth","        India",,  8030,"",  5095,"",  2935,"",
+"Place of birth","        Nepal",,   385,"",   180,"",   210,"",
+"Place of birth","        Pakistan",,  2260,"",  1150,"",  1110,"",
+"Place of birth","        Sri Lanka",,   215,"",   120,"",   100,"",
+"Place of birth","        Other places of birth in Southern Asia",,   510,"",   265,"",   245,"",
+"Place of birth","    Oceania",,   115,"",    45,"",    70,"",
+"Place of birth","      Australia",,    70,"",    15,"",    50,"",
+"Place of birth","      Fiji",,    10,"",     0,"",     0,"",
+"Place of birth","      New Zealand",,    30,"",    15,"",    15,"",
+"Place of birth","      Other places of birth in Oceania",,     0,"",     0,"",     0,"",
+"Place of birth","    Other places of birth",87,     0,"",     0,"",     0,"",
+"Place of birth for the immigrant population","Total - Place of birth for the immigrant population in private households - 25% sample data",88, 66615,"", 32415,"", 34200,"",
+"Place of birth for the immigrant population","  Americas",,  7970,"",  3455,"",  4515,"",
+"Place of birth for the immigrant population","    Brazil",,   125,"",    55,"",    70,"",
+"Place of birth for the immigrant population","    Colombia",,   255,"",   140,"",   115,"",
+"Place of birth for the immigrant population","    El Salvador",,   630,"",   310,"",   320,"",
+"Place of birth for the immigrant population","    Guyana",,    80,"",    55,"",    25,"",
+"Place of birth for the immigrant population","    Haiti",,   215,"",    80,"",   135,"",
+"Place of birth for the immigrant population","    Jamaica",,   715,"",   335,"",   375,"",
+"Place of birth for the immigrant population","    Mexico",,   450,"",   190,"",   270,"",
+"Place of birth for the immigrant population","    Peru",,   105,"",    40,"",    65,"",
+"Place of birth for the immigrant population","    Trinidad and Tobago",,   215,"",    90,"",   125,"",
+"Place of birth for the immigrant population","    United States of America",,  3900,"",  1660,"",  2240,"",
+"Place of birth for the immigrant population","    Other places of birth in Americas",,  1285,"",   505,"",   780,"",
+"Place of birth for the immigrant population","  Europe",, 16895,"",  8395,"",  8495,"",
+"Place of birth for the immigrant population","    Bosnia and Herzegovina",,  1140,"",   590,"",   550,"",
+"Place of birth for the immigrant population","    Croatia",,  1090,"",   515,"",   570,"",
+"Place of birth for the immigrant population","    France",,   170,"",   100,"",    75,"",
+"Place of birth for the immigrant population","    Germany",,   565,"",   285,"",   280,"",
+"Place of birth for the immigrant population","    Greece",,   640,"",   335,"",   310,"",
+"Place of birth for the immigrant population","    Hungary",,   415,"",   200,"",   215,"",
+"Place of birth for the immigrant population","    Italy",,  3270,"",  1600,"",  1665,"",
+"Place of birth for the immigrant population","    Netherlands",,   220,"",   145,"",    75,"",
+"Place of birth for the immigrant population","    Poland",,  1670,"",   810,"",   855,"",
+"Place of birth for the immigrant population","    Portugal",,   330,"",   165,"",   165,"",
+"Place of birth for the immigrant population","    Romania",,  1570,"",   770,"",   800,"",
+"Place of birth for the immigrant population","    Russian Federation",,   135,"",    55,"",    75,"",
+"Place of birth for the immigrant population","    Serbia",78,  1005,"",   515,"",   490,"",
+"Place of birth for the immigrant population","    Ukraine",,   125,"",    50,"",    80,"",
+"Place of birth for the immigrant population","    United Kingdom",77,  2290,"",  1150,"",  1145,"",
+"Place of birth for the immigrant population","    Other places of birth in Europe",,  2265,"",  1120,"",  1150,"",
+"Place of birth for the immigrant population","  Africa",,  5060,"",  2445,"",  2615,"",
+"Place of birth for the immigrant population","    Algeria",,    90,"",    35,"",    55,"",
+"Place of birth for the immigrant population","    Congo, Democratic Republic of the",,   315,"",   135,"",   180,"",
+"Place of birth for the immigrant population","    Egypt",,   410,"",   245,"",   165,"",
+"Place of birth for the immigrant population","    Eritrea",,   225,"",   110,"",   115,"",
+"Place of birth for the immigrant population","    Ethiopia",,   285,"",   130,"",   155,"",
+"Place of birth for the immigrant population","    Morocco",,    70,"",    40,"",    25,"",
+"Place of birth for the immigrant population","    Nigeria",,   695,"",   340,"",   360,"",
+"Place of birth for the immigrant population","    Somalia",,   670,"",   310,"",   355,"",
+"Place of birth for the immigrant population","    South Africa, Republic of",,   135,"",    65,"",    70,"",
+"Place of birth for the immigrant population","    Other places of birth in Africa",,  2165,"",  1035,"",  1125,"",
+"Place of birth for the immigrant population","  Asia",, 36600,"", 18090,"", 18510,"",
+"Place of birth for the immigrant population","    Afghanistan",,    40,"",    15,"",    25,"",
+"Place of birth for the immigrant population","    Iran",81,   555,"",   255,"",   300,"",
+"Place of birth for the immigrant population","    Iraq",,  8450,"",  4270,"",  4180,"",
+"Place of birth for the immigrant population","    Lebanon",,  3715,"",  1835,"",  1885,"",
+"Place of birth for the immigrant population","    Syria",82,  3425,"",  1640,"",  1785,"",
+"Place of birth for the immigrant population","    Turkey",,   325,"",   165,"",   160,"",
+"Place of birth for the immigrant population","    China",83,  3250,"",  1435,"",  1810,"",
+"Place of birth for the immigrant population","    Hong Kong",84,   425,"",   245,"",   180,"",
+"Place of birth for the immigrant population","    Korea, South",85,   240,"",   120,"",   120,"",
+"Place of birth for the immigrant population","    Taiwan",,   175,"",    70,"",   105,"",
+"Place of birth for the immigrant population","    Philippines",,  2360,"",   915,"",  1450,"",
+"Place of birth for the immigrant population","    Viet Nam",,  1595,"",   780,"",   815,"",
+"Place of birth for the immigrant population","    Bangladesh",,   610,"",   320,"",   290,"",
+"Place of birth for the immigrant population","    India",,  4535,"",  2500,"",  2035,"",
+"Place of birth for the immigrant population","    Pakistan",,  2165,"",  1090,"",  1080,"",
+"Place of birth for the immigrant population","    Sri Lanka",,   205,"",   115,"",    95,"",
+"Place of birth for the immigrant population","    Other places of birth in Asia",,  4530,"",  2310,"",  2220,"",
+"Place of birth for the immigrant population","  Oceania and other places of birth",89,    90,"",    25,"",    60,"",
+"Generation status","Total - Generation status for the population in private households - 25% sample data",90,226460,"",112380,"",114080,"",
+"Generation status","  First generation",91, 76840,"", 38645,"", 38190,"",
+"Generation status","  Second generation",92, 47955,"", 23940,"", 24015,"",
+"Generation status","  Third generation or more",93,101665,"", 49795,"", 51875,"",
+"Admission category and applicant type","Total - Admission category and applicant type for the population in private households - 25% sample data",94,226460,"",112380,"",114080,"",
+"Admission category and applicant type","  Economic immigrants",95, 16800,"",  9000,"",  7800,"",
+"Admission category and applicant type","    Principal applicants",96,  7210,"",  4975,"",  2230,"",
+"Admission category and applicant type","    Secondary applicants",97,  9595,"",  4025,"",  5570,"",
+"Admission category and applicant type","  Immigrants sponsored by family",98, 13415,"",  5130,"",  8280,"",
+"Admission category and applicant type","  Refugees",99, 22880,"", 11905,"", 10970,"",
+"Admission category and applicant type","  Other immigrants",100,  1120,"",   500,"",   625,"",
+"Admission category and applicant type","  Admission category - not applicable",101,172255,"", 85845,"", 86405,"",
+
+
+Notes:
+1,"""Gender"" refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman)."
+,"Gender includes the following concepts:"
+,"* gender identity, which refers to the gender that a person feels internally and individually;"
+,"* gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender."
+,"A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time."
+,"Some people may not identify with a specific gender."
+,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category ""non-binary persons"" are distributed into the other two gender categories and are denoted by the ""+"" symbol."
+2,"This category includes men (and/or boys), as well as some non-binary persons."
+3,"This category includes women (and/or girls), as well as some non-binary persons."
+64,"'Citizenship' refers to the country where the person has citizenship. A person may have more than one citizenship. A person may be stateless, that is, they may have no citizenship. Citizenship can be by birth or naturalization."
+,"For more information on citizenship variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+65,"'Canadian citizens' includes persons who are citizens of Canada only and persons who are citizens of Canada and at least one other country."
+66,"'Not Canadian citizens' includes persons who are not citizens of Canada. They may be citizens of one or more other countries. Persons who are stateless are included in this category."
+67,"'Immigrant status' refers to whether the person is a non-immigrant, an immigrant or a non-permanent resident."
+,"'Period of immigration' refers to the period in which the immigrant first obtained landed immigrant or permanent resident status."
+,"For more information on immigration variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+68,"'Non-immigrants' includes persons who are Canadian citizens by birth."
+69,"'Immigrants' includes persons who are, or who have ever been, landed immigrants or permanent residents. Such persons have been granted the right to live in Canada permanently by immigration authorities. Immigrants who have obtained Canadian citizenship by naturalization are included in this category. In the 2021 Census of Population, 'Immigrants' includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+70,"Includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+71,"'Non-permanent residents' includes persons from another country with a usual place of residence in Canada and who have a work or study permit or who have claimed refugee status (asylum claimants). Family members living with work or study permit holders are also included, unless these family members are already Canadian citizens, landed immigrants or permanent residents."
+72,"'Age at immigration' refers to the age at which an immigrant first obtained landed immigrant or permanent resident status."
+,"'Immigrants' includes persons who are, or who have ever been, landed immigrants or permanent residents. Such persons have been granted the right to live in Canada permanently by immigration authorities. Immigrants who have obtained Canadian citizenship by naturalization are included in this category. In the 2021 Census of Population, 'Immigrants' includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+,"For more information on immigration variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+73,"The places of birth selected are the most frequently reported by respondents at the Canada level. For more information on the place of birth variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+74,"The official name of Venezuela is Bolivarian Republic of Venezuela."
+75,"The official name of Moldova is Republic of Moldova."
+76,"Ireland is also referred to as Republic of Ireland."
+77,"The official name of United Kingdom is United Kingdom of Great Britain and Northern Ireland. United Kingdom includes Scotland, Wales, England and Northern Ireland (excludes Isle of Man, the Channel Islands and British Overseas Territories)."
+78,"Serbia excludes Kosovo."
+79,"The official name of Tanzania is United Republic of Tanzania."
+80,"The full name of Sudan is the Republic of the Sudan."
+81,"The official name of Iran is Islamic Republic of Iran."
+82,"The official name of Syria is Syrian Arab Republic."
+83,"China excludes Hong Kong and Macao."
+84,"The full name of Hong Kong is the Hong Kong Special Administrative Region of China."
+85,"The official name of South Korea is Republic of Korea."
+86,"The official name of Laos is Lao People's Democratic Republic."
+87,"Includes other places of birth not included elsewhere, such as 'born at sea.'"
+88,"'Immigrant' refers to a person who is, or who has ever been, a landed immigrant or permanent resident. Such a person has been granted the right to live in Canada permanently by immigration authorities. Immigrants who have obtained Canadian citizenship by naturalization are included in this group. In the 2021 Census of Population, 'Immigrants' includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+,"The places of birth selected are the most frequently reported by immigrants at the Canada level."
+,"'Place of birth' refers to the name of the geographic location where the person was born. The geographic location is specified according to geographic boundaries current at the time of data collection, not the geographic boundaries at the time of birth. In the 2021 Census of Population, the geographic location refers to a country or area of interest if the person was born outside Canada."
+,"For more information on the place of birth variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+89,"The category 'Oceania and other' includes places of birth in Oceania and responses not included elsewhere, such as 'born at sea.'"
+90,"'Generation status' refers to whether or not the person or the person's parents were born in Canada."
+,"For more information on generation status variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+91,"'First generation' includes persons who were born outside Canada. For the most part, these are people who are now, or once were, immigrants to Canada."
+92,"'Second generation' includes persons who were born in Canada and had at least one parent born outside Canada. For the most part, these are the children of immigrants."
+93,"'Third generation or more' includes persons who were born in Canada with all parents born in Canada."
+94,"'Admission category' refers to the name of the immigration program or group of programs under which an immigrant has been granted for the first time the right to live in Canada permanently by immigration authorities."
+,"'Applicant type' refers to whether an immigrant was identified as the principal applicant, the spouse or the dependant on their application for permanent residence."
+,"'Immigrant' refers to a person who is, or who has ever been, a landed immigrant or permanent resident. Such a person has been granted the right to live in Canada permanently by immigration authorities. Immigrants who have obtained Canadian citizenship by naturalization are included in this group. In the 2021 Census of Population, data on admission category and applicant type are available for immigrants who were admitted to Canada between January 1, 1980 and May 11, 2021."
+,"For more information on immigration variables, including information on their classifications, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+95,"'Economic immigrants' includes immigrants who have been selected for their ability to contribute to Canada's economy through their ability to meet labour market needs, to own and manage or to build a business, to make a substantial investment, to create their own employment or to meet specific provincial or territorial labour market needs."
+96,"'Principal applicants' includes immigrants who were identified as the principal applicant on their application for permanent residence."
+97,"'Secondary applicants' includes immigrants who were identified as the married spouse, the common-law or conjugal partner or the dependant of the principal applicant on their application for permanent residence."
+98,"'Immigrants sponsored by family' includes immigrants who were sponsored by a Canadian citizen or permanent resident and were granted permanent resident status on the basis of their relationship either as the spouse, partner, parent, grandparent, child or other relative of this sponsor. The terms 'family class' or 'family reunification' are sometimes used to refer to this category."
+99,"'Refugees' includes immigrants who were granted permanent resident status on the basis of a well-founded fear of returning to their home country. This category includes persons who had a well-founded fear of persecution for reasons of race, religion, nationality, membership in particular social group or for political opinion (Geneva Convention refugees) as well as persons who had been seriously and personally affected by civil war or armed conflict, or have suffered a massive violation of human rights. Some refugees were in Canada when they applied for refugee protection for themselves and their family members (either with them in Canada or abroad). Others were abroad and were referred for resettlement to Canada by the United Nations Refugee Agency, another designated referral organization or private sponsors."
+100,"'Other immigrants' includes immigrants who were granted permanent resident status under a program that does not fall under the economic immigrants, the immigrants sponsored by family or the refugee categories."
+101,"'Admission category - not applicable' includes immigrants who were admitted before 1980, non-immigrants and non-permanent residents. In the 2021 Census of Population, data on admission category and applicant type are available for immigrants who were admitted to Canada between January 1, 1980, and May 11, 2021. 'Non-immigrants' includes persons who are Canadian citizens by birth. 'Non-permanent residents' includes persons from another country with a usual place of residence in Canada and who have a work or study permit or who have claimed refugee status (asylum claimants). Family members living with work or study permit holders are also included, unless these family members are already Canadian citizens, landed immigrants or permanent residents."
+
+
+Data quality:
+"Windsor"
+"Total non-response (TNR) rate, short-form census questionnaire: 2.8%"
+"Total non-response (TNR) rate, long-form census questionnaire: 3.6%"
+
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+How to cite: Statistics Canada. 2024. Special Interest Profile. 2021 Census.
+Statistics Canada Catalogue no. 98-26-00092021001. Ottawa. Released March 20  2024.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/sip/index.cfm?Lang=E

@@ -1,0 +1,34 @@
+"Census Family After-tax Income Groups (21) in Constant (2015) Dollars, Census Family Structure (7), Family Size of Census Family (4), Ages of Census Family Members (18), Number of Earners in the Census Family (5) and Year (2) for Census Families in Private Households of Canada, Provinces and Territories, Census Metropolitan Areas and Census Agglomerations, 2006 Census - 20% Sample Data and 2016 Census - 100% Data"
+"Geography = Kitchener - Cambridge - Waterloo"
+"Global non-response rate (GNR) =   3.6 %"
+"Census family structure (7) = Total - Census family structure"
+"Family size of census family (4) = Total - Census families by family size"
+"Ages of census family members (18) = Total - Census families by number of persons aged 0 to 5 years"
+"Number of earners in the census family (5) = Total - Number of earners in the census family"
+"Census family after-tax income groups (21)","2015 [1]","2005 [2]", 
+"Total - After-tax income of census family",146925,131265 
+"  Under $5,000",1445,1485 
+"  $5,000 to $9,999",785,885 
+"  $10,000 to $14,999",1345,1395 
+"  $15,000 to $19,999",2090,1855 
+"  $20,000 to $24,999",2670,2550 
+"  $25,000 to $29,999",3645,3120 
+"  $30,000 to $34,999",4920,4245 
+"  $35,000 to $39,999",5555,5385 
+"  $40,000 to $44,999",5930,5995 
+"  $45,000 to $49,999",6460,6540 
+"  $50,000 to $59,999",13405,13200 
+"  $60,000 to $69,999",13705,13235 
+"  $70,000 to $79,999",13555,12860 
+"  $80,000 to $89,999",12805,12215 
+"  $90,000 to $99,999",11100,10405 
+"  $100,000 and over",47510,35890 
+"    $100,000 to $124,999",20345,17040 
+"    $125,000 to $149,999",11840,8810 
+"    $150,000 and over",15320,10050 
+"  Median after-tax income of census family ($) [3]",78455,74263 
+"Note"
+"[1] The reference period for income data from a given census is the calendar year prior to the specified census year.   Specifically, income data from the 2006 and 2016 censuses relate to the calendar year prior to the census year, i.e., 2005 and 2015 respectively. For additional information, refer to the Dictionary, Census of Population, 2016 and the Income Reference Guide, Census of Population, 2016."
+"[2] The reference period for income data from a given census is the calendar year prior to the specified census year.   Specifically, income data from the 2006 and 2016 censuses relate to the calendar year prior to the census year, i.e., 2005 and 2015 respectively. For additional information, refer to the Dictionary, Census of Population, 2016 and the Income Reference Guide, Census of Population, 2016."
+"[3] Median income - The median income of a specified group is the amount that divides the income distribution of that group into two halves, i.e., the incomes of half of the units in that group are below the median, while those of the other half are above the median. Median incomes of families are calculated for all units, whether or not they had income."
+"Source: Statistics Canada - 2016 Census. Catalogue Number 98-400-X2016105."

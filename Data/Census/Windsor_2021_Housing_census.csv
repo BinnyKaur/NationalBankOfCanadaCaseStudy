@@ -1,0 +1,14 @@
+﻿Topic,Characteristic,Total - Gender (1),Men+ (2),Women+ (3)
+Acceptable housing,  Below affordability threshold only,30725,14700,16025
+Acceptable housing,  Below suitability threshold only,21500,11080,10420
+Acceptable housing,  Below adequacy threshold only,10430,5090,5340
+Acceptable housing,  Below affordability and suitability thresholds,4390,2205,2190
+Acceptable housing,  Below affordability and adequacy thresholds,2845,1270,1570
+Acceptable housing,  Below suitability and adequacy thresholds,1820,865,950
+Acceptable housing,"  Below affordability, suitability and adequacy thresholds",435,205,230
+Acceptable housing,  Acceptable,154320,76970,77355
+Core housing need,  In core need,18005,8125,9880
+Core housing need,  Not in core need,204625,102050,102575
+Tenure,  Owner,149710,74190,75520
+Tenure,  Renter,76755,38185,38565
+Tenure,"  Dwelling provided by the local government, First Nation or Indian band",0,0,0
