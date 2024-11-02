@@ -7,7 +7,7 @@
 - **Shrirang Rajguru**
 
 ## PROJECT OVERVIEW
-This repository contains an analysis and strategy developed for the **Second Annual Case Competition**. The project focuses on expanding the market share of a major Canadian bank in **Southwestern Ontario**, specifically targeting regions with high growth potential, including Windsor/Essex, Middlesex County, and the Region of Waterloo.
+This repository contains an analysis and strategy developed for the **Second Annual Case Competition**. The project focuses on expanding the market share of **National Bank of Canada** in **Southwestern Ontario**, specifically targeting regions with high growth potential, including Windsor/Essex, Middlesex County, and the Region of Waterloo.
 
 ## BANK PROFILE
 - **Founded**: 1859
@@ -34,5 +34,5 @@ The main objective of this project is to analyze current and future economic pro
 2. **Key Employment Sectors**: Identification of dominant employment sectors in Southwestern Ontario.
 3. **Professional Offer Analysis**:
    - **Student Packages**
-   - **Professional Packages (Chequing Accounts)**
+   - **Professional Packages**
 
