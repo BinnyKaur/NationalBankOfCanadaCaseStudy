@@ -41,3 +41,32 @@ The main objective of this project is to analyze current and future economic pro
    - **Professional Packages**
 
 
+## Data Analysis 
+1. **Hosuehold Contribution | Income Bracket |Average Employment Income**
+    ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Tableau%201.png)
+
+2. **Regional Occupation |Immigrants Share**
+    ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Tableau2.png)
+
+3. **Population Consumption Pattern**
+   ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Tableau3.png)
+   
+
+## Key Insights 
+ **Workforce Demographics & Key Employment Sectors**
+   ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Insights1.png)
+
+  ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Insights2.png)
+
+## Portfolio Analysis
+1. **Student Package**
+    ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Portfolio1.png)
+   
+2. **Professional Package**
+    ![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Portfolio2.png)
+ 
+## Strategy
+![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Strategy%201.png)
+
+![Alt Text](https://github.com/BinnyKaur/NationalBankOfCanadaCaseStudy/blob/main/Screenshots/Strategy%202.png)
+
