@@ -29,10 +29,15 @@ The main objective of this project is to analyze current and future economic pro
 - **Windsor/Essex**
 - **Middlesex County (London area)**
 
+  
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/3d9c79b3-d0d7-425b-bf6c-19e21f46e0d6">
+
+
 ## ANALYSIS COMPONENTS
 1. **Economic & Workforce Prospects**: An assessment of current and future economic conditions and workforce demographics in targeted regions.
 2. **Key Employment Sectors**: Identification of dominant employment sectors in Southwestern Ontario.
 3. **Professional Offer Analysis**:
    - **Student Packages**
    - **Professional Packages**
+
 
